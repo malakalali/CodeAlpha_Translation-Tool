@@ -1,0 +1,4 @@
+deep-translator
+gTTS
+pyperclip
+# streamlit  # Temporarily commented out due to dependency issues
